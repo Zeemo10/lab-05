@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195514786817",
+    "project_id": "alottin-lab-05",
+    "storage_bucket": "alottin-lab-05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195514786817:android:e6b1f53abde7a2ee260c00",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqpuaD1-SjWDLqc5H2P4mwSS8AKg8DK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

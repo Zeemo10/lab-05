@@ -5,14 +5,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/cityLayout"
     android:padding="10dp">
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="City Name"
         android:id="@+id/textCityName"
         android:textSize="30sp"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        android:layout_marginLeft="20sp"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textCityProvince"
